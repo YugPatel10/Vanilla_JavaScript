@@ -2,7 +2,7 @@
 									
 									
            Introduction: 
-                        - This repo contains the file for Vanilla JavaScript. It contians following items:
+                        - This repo contains the files for Vanilla JavaScript. It contians following items:
                                 1) index.html : It has a simple form using basic html tags and css and javascript files are added to it.
                                 2) style.css : It contains basic styling for the form.
                                 3) main.js : Here all the vanilla javascript basics concepts are applied to the form. 
